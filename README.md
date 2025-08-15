@@ -27,6 +27,19 @@ The logic states:
     Will output `Less Intense Filler` and `More Intense Filler` in the ui
     ![img.png](docs/multi.png)
 
+# IVDB.io Support
+
+Also IVDB.io tokens are now supported in Stash. To enable you still need to have the video locally and then input the url of the video on ivdb.io as one of the scripts urls
+<img width="460" height="99" alt="image" src="https://github.com/user-attachments/assets/9bad80c0-65b5-4d0c-8efb-15eaa8e66b95" />
+
+# Modify Funscripts
+
+Allows user to modify funscripts and save presets. This mimics a few features found on funscript.io that was created by @defucilis
+<img width="553" height="277" alt="image" src="https://github.com/user-attachments/assets/e32b9a8d-cc18-447d-804c-a03df757cc5f" />
+<img width="485" height="326" alt="image" src="https://github.com/user-attachments/assets/8a9b8f87-9629-41f4-af1a-778e0ac62b47" />
+<img width="463" height="533" alt="image" src="https://github.com/user-attachments/assets/265be8f4-b0cf-42ad-8c33-cdeb9d8729d2" />
+<img width="475" height="414" alt="image" src="https://github.com/user-attachments/assets/d81e292e-1359-4f8f-a946-414ebe845326" />
+
 # Requirements
 
 - PythonToolsInstaller plugin
